@@ -1,7 +1,7 @@
 # How to use Additional Languages for Craftopia
 
-1. Subscribe Craftopia Mod Loader (BepInEx)
-2. Subscribe this mod (probably you have already finished this step!)
+1. Subscribe to Craftopia Mod Loader (BepInEx)
+2. Subscribe to this mod (probably you have already finished this step!)
 3. Launch Craftopia once and quit
 4. Overwrite config/budgiemods_additionallangs:
 
