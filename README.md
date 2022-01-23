@@ -1,25 +1,17 @@
 # How to use Additional Languages for Craftopia
 
-1. Subscribe to Craftopia Mod Loader (BepInEx)
-2. Subscribe to this mod (probably you have already finished this step!)
+1. Install Craftopia Mod Loader (BepInEx)
+2. Download and install this mod (Copy the files in /plugins to BepInEx/plugins/*)
 3. Launch Craftopia once and quit
-4. Overwrite config/budgiemods_additionallangs:
-
-    language = None
-to
-    language = Spanish
-,
-    language = Russian
-,
-    language = French
-,
-    language = Korean
-,
-    language = German
-,
-    language = Portuguese
-or
-    language = Brazilian
+4. Overwrite config/budgiemods_additionallangs.cfg:  
+from `language = None`  
+to `language = Spanish`,  
+   `language = Russian`,  
+   `language = French`,  
+   `language = Korean`,  
+   `language = German`,  
+   `language = Portuguese`,  
+or `language = Brazilian`
 
 Note that, "Portuguese" setting leads to pt-PT, so choose "Brazilian" if you want to play in pt-BR.
 
