@@ -24,4 +24,4 @@ https://forms.gle/apomreMKTWA1Luxb7 (Google Forms)
 
 Please do not try to contact PocketPair Inc. unless the bugs remain after removing this mod.
 
-Please do not re-distribute this mod. If you recommend this to your friends, tell them to subscribe to this through Steam Workshop.
+Please do not re-distribute this mod.
