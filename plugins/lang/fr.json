@@ -365,7 +365,7 @@
     "100_UI/Operation/Get one": "<sprite name=\"Alt@1x\"> +<sprite name=\"Mouse LB Outline@1x\"> En prendre une",
     "100_UI/Operation/Half acquired": "<sprite name=\"Ctrl@1x\"> +<sprite name=\"Mouse LB Outline@1x\"> Prendre la moitié",
     "100_UI/Operation/MultiSelection": "Multiselect",
-    "100_UI/Operation/Pin": "<sprite name=\"Mouse MB Outline@1x\"> Définir une broche",
+    "100_UI/Operation/Pin": "<sprite name=\"Mouse MB Outline@1x\"> Placer un Pointeur",
     "100_UI/Operation/Plate/C_EQUIP": "[KEYMAP:WestButton]<size=14> Équipé</size>",
     "100_UI/Operation/Plate/C_EQUIP_RELEASE": "[KEYMAP:WestButton]<size=14> Déséquiper</size>",
     "100_UI/Operation/Plate/C_OPENWINDOW": "[KEYMAP:WestButton]<size=14> Ouvrir le menu</size>",
