@@ -28,7 +28,7 @@ Note that, "Portuguese" setting leads to pt-PT, so choose "Brazilian" if you wan
 
 # Caution
 <br>
-If you notice some display bugs or mistranlations, please tell them to the author through [GoogleForms](https://forms.gle/apomreMKTWA1Luxb7/).<br>
+If you notice some display bugs or mistranlations, please tell them to the author through <a href="https://forms.gle/apomreMKTWA1Luxb7/">Google Forms</a>).<br>
 <br>
 Please do not try to contact PocketPair Inc. unless the bugs remain after removing this mod.<br>
 <br>
@@ -46,4 +46,4 @@ A. There might be a crash problem.<br>
    To specify the problem, see C:\Users\(Account Name)\AppData\LocalLow\PocketPair\Craftopia\Player.log.<br>
    The address is independent of Steam settings and always in Users.<br>
    Note that AppData is hidden by default and you have to change settings or write the path on the address bar.<br>
-   After removing mods with problem or alpha setting, try to verify the integrity of your game files in Steam (see [Steam Help](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB/)).<br>
+   After removing mods with problem or alpha setting, try to verify the integrity of your game files in Steam (see <a href="https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB/">Steam Help</a>).<br>
