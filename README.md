@@ -25,7 +25,6 @@ Note that, "Portuguese" setting leads to pt-PT, so choose "Brazilian" if you wan
 <br>
 5. Launch Craftopia and enjoy!<br>
 <br>
-***
 
 # Caution
 <br>
@@ -35,7 +34,6 @@ Please do not try to contact PocketPair Inc. unless the bugs remain after removi
 <br>
 Please do not re-distribute this mod. If you recommend this to your friends, tell them to subscribe to this through Steam Workshop.<br>
 <br>
-***
 
 # FAQ
 <br>
