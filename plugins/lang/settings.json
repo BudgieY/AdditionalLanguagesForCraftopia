@@ -1,0 +1,102 @@
+[
+    {
+        "code": "de-DE",
+        "dictPath": "\\lang\\de.json",
+        "fontPath": "",
+        "atlasSize": 2048,
+        "names": [
+            "de-DE",
+            "deutsch",
+            "German"
+        ],
+        "spcUnicode": []
+    },
+    {
+        "code": "es-ES",
+        "dictPath": "\\lang\\es.json",
+        "fontPath": "",
+        "atlasSize": 2048,
+        "names": [
+            "es-ES",
+            "español",
+            "Spanish"
+        ],
+        "spcUnicode": []
+    },
+    {
+        "code": "fr-FR",
+        "dictPath": "\\lang\\fr.json",
+        "fontPath": "",
+        "atlasSize": 2048,
+        "names": [
+            "fr-FR",
+            "français",
+            "French"
+        ],
+        "spcUnicode": []
+    },
+    {
+        "code": "ko-KR",
+        "dictPath": "\\lang\\ko.json",
+        "fontPath": "\\resources\\Gothic_A1\\GothicA1-Regular.ttf",
+        "atlasSize": 4096,
+        "names": [
+            "ko-KR",
+            "한국어",
+            "Korean"
+        ],
+        "spcUnicode": [
+            "1100",
+            "115E",
+            "1160",
+            "11F0",
+            "3131",
+            "318E",
+            "AC00",
+            "D7A3",
+            "D7B0",
+            "D7C6",
+            "D7CB",
+            "D7FB"
+        ]
+    },
+    {
+        "code": "pt-BR",
+        "dictPath": "\\lang\\ptbr.json",
+        "fontPath": "",
+        "atlasSize": 2048,
+        "names": [
+            "pt-BR",
+            "brasileiro",
+            "Brazilian"
+        ],
+        "spcUnicode": []
+    },
+    {
+        "code": "pt-PT",
+        "dictPath": "\\lang\\pt.json",
+        "fontPath": "",
+        "atlasSize": 2048,
+        "names": [
+            "pt-PT",
+            "português",
+            "Portuguese"
+        ],
+        "spcUnicode": []
+    },
+    {
+        "code": "ru-RU",
+        "dictPath": "\\lang\\ru.json",
+        "fontPath": "\\resources\\Open_Sans\\static\\OpenSans\\OpenSans-Regular.ttf",
+        "atlasSize": 2048,
+        "names": [
+            "ru-RU",
+            "русский",
+            "Russian"
+        ],
+        "spcUnicode": [
+            "0400",
+            "052F"
+        ]
+    }
+]
