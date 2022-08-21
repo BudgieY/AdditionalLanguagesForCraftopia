@@ -36,6 +36,18 @@
         "spcUnicode": []
     },
     {
+        "code": "it-IT",
+        "dictPath": "\\lang\\it.json",
+        "fontPath": "",
+        "atlasSize": 2048,
+        "names": [
+            "it-IT",
+            "italiano",
+            "Italian"
+        ],
+        "spcUnicode": []
+    },
+    {
         "code": "ko-KR",
         "dictPath": "\\lang\\ko.json",
         "fontPath": "\\resources\\Gothic_A1\\GothicA1-Regular.ttf",
