@@ -1039,7 +1039,7 @@
     "100_UI/Text/MultiMAX": "Maximale Anzahl von Spielern im Mehrspielermodus",
     "100_UI/Text/NEW": "NEU",
     "100_UI/Text/NGWord": "*Einige Symbole und verbotene Wörter können nicht verwendet werden.",
-    "100_UI/Text/NPC_Event/ChestDesc": "Bitte liefern Sie die folgenden Gegenstände.\r\nAnfragen werden nach Ablauf der Zeit automatisch aufgegeben.\r\n\r\nAngeforderter Gegenstand: {QUEST_REQUIERED_ITEM_NUM} {QUEST_REQUIERED_ITEM_ITEM}\r\nBelohnungsgegenstand: {QUEST_REWARD_ITEM_NUM} {QUEST_REWARD_ITEM}\r\nFälligkeitsdatum: Tag {QUEST_TIME_LIMIT} ({QUEST_REMAINING_MINUTE} verbleibende Minuten)",
+    "100_UI/Text/NPC_Event/ChestDesc": "Bitte liefern Sie die folgenden Gegenstände.\r\nAnfragen werden nach Ablauf der Zeit automatisch aufgegeben.\r\n\r\nAngeforderter Gegenstand: {QUEST_REQUIERED_ITEM_NUM} {QUEST_REQUIERED_ITEM}\r\nBelohnungsgegenstand: {QUEST_REWARD_ITEM_NUM} {QUEST_REWARD_ITEM}\r\nFälligkeitsdatum: Tag {QUEST_TIME_LIMIT} ({QUEST_REMAINING_MINUTE} verbleibende Minuten)",
     "100_UI/Text/NPC_Event/RequiredEnchantedItem": "Gegenstand mit der Verzauberung [A]",
     "100_UI/Text/Narrow down": "Gegenstand filtern",
     "100_UI/Text/NextSkillLv": "Verbleibende Punkte bis zur nächsten Stufe:",
