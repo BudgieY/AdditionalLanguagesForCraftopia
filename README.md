@@ -3,7 +3,7 @@
 1. Subscribe to Craftopia Mod Loader (BepInEx)<br>
 2. Subscribe to this mod (probably you have already finished this step!)<br>
 3. Launch Craftopia once and quit.<br>
-4. Overwrite steamapps\workshop\content\1307550\2519948110\BepInEx\config\budgiemods_additionallangs.cfg:<br>
+4. Overwrite budgiemods_additionallangs.cfg:<br>
 <br>
     language = None<br>
 to<br>
@@ -18,9 +18,13 @@ to<br>
     language = German<br>
 ,<br>
     language = Portuguese<br>
-or<br>
+,<br>
     language = Brazilian<br>
+, or<br>
+    language = Italian<br>
 <br>
+The config file is in steamapps\workshop\content\1307550\2519948110\BepInEx\config\ without BepInEx [Updated].
+With BepInEx [Updated], it is in steamapps\workshop\content\1307550\2830278057\BepInEx\config\ .
 Note that, "Portuguese" setting leads to pt-PT, so choose "Brazilian" if you want to play in pt-BR.<br>
 <br>
 5. Launch Craftopia and enjoy!<br>
@@ -28,7 +32,7 @@ Note that, "Portuguese" setting leads to pt-PT, so choose "Brazilian" if you wan
 
 # Caution
 <br>
-If you notice some display bugs or mistranlations, please tell them to the author through <a href="https://forms.gle/apomreMKTWA1Luxb7/">Google Forms</a>).<br>
+If you notice some display bugs or mistranlations, please tell them to the author through <a href="https://forms.gle/apomreMKTWA1Luxb7/">Google Forms</a>.<br>
 <br>
 Please do not try to contact PocketPair Inc. unless the bugs remain after removing this mod.<br>
 <br>
